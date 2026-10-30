@@ -1,4 +1,4 @@
-# 💻 Personal Portfolio Website
+# 💻 Kişisel Portfolyo Web Sitesi
 
 ASP.NET Core MVC ile geliştirdiğim kişisel portfolyo web sitesi. Yazılım alanındaki çalışmalarımı, teknik yetkinliklerimi, deneyimlerimi ve projelerimi sergilemek amacıyla tasarladım.
 
